@@ -1,0 +1,19 @@
+{
+  "name": "dropdownmenu",
+  "version": "1.0.0",
+  "description": "creating dropdown meny",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boostrapz/dropdown.git"
+  },
+  "author": "Bohdan Zyma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boostrapz/dropdown/issues"
+  },
+  "homepage": "https://github.com/boostrapz/dropdown#readme"
+}
